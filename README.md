@@ -1,3 +1,4 @@
-# 10проект в яндексПрактикум
-https://angelinabrichko.github.io/10project/
-Версия v1.0.0
+
+# 10проект в яндексПрактикум c попытками подкорректировать косяки
+https://angelinabrichko.github.io/10project/ 
+Версия v2.0.0
